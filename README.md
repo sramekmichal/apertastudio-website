@@ -1,3 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8179f50d-ca9d-4799-89c0-5d59da0d9f45/deploy-status)](https://app.netlify.com/sites/michalsramek-test/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/db53a446-c7ab-44bd-9ba7-21a70b6007b3/deploy-status)](https://app.netlify.com/sites/nerdshark-eshop/deploys)
 
 Wordpress e-shop.
