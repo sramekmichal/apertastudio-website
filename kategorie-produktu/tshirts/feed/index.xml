@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Tshirts &#8211; User&#039;s blog</title>
-	<atom:link href="https://nerdshark-eshop.netlify.app/kategorie-produktu/tshirts/feed/" rel="self" type="application/rss+xml" />
-	<link>https://nerdshark-eshop.netlify.app/</link>
-	<description>Just another WordPress site</description>
+	<title>Tshirts &#8211; NERDSHARK</title>
+	<atom:link href="/kategorie-produktu/tshirts/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Můj testovací e-shop</description>
 	<lastBuildDate>Wed, 16 Jan 2019 13:01:55 +0000</lastBuildDate>
 	<language>cs</language>
 	<sy:updatePeriod>
@@ -19,92 +19,100 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/10/E-shop_Favikona.png</url>
+	<title>Tshirts &#8211; NERDSHARK</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>T-Shirt with Logo</title>
-		<link>https://nerdshark-eshop.netlify.app/produkt/t-shirt-with-logo/</link>
-					<comments>https://nerdshark-eshop.netlify.app/produkt/t-shirt-with-logo/#respond</comments>
+		<link>/produkt/t-shirt-with-logo/</link>
+					<comments>/produkt/t-shirt-with-logo/#respond</comments>
 		
 		<dc:creator><![CDATA[Michal Šrámek]]></dc:creator>
 		<pubDate>Wed, 16 Jan 2019 13:01:55 +0000</pubDate>
-				<guid isPermaLink="false">https://nerdshark-eshop.netlify.app/produkt/t-shirt-with-logo/</guid>
+				<guid isPermaLink="false">/produkt/t-shirt-with-logo/</guid>
 
 					<description><![CDATA[This is a simple product.]]></description>
 										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://nerdshark-eshop.netlify.app/produkt/t-shirt-with-logo/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Long Sleeve Tee</title>
-		<link>https://nerdshark-eshop.netlify.app/produkt/long-sleeve-tee/</link>
-					<comments>https://nerdshark-eshop.netlify.app/produkt/long-sleeve-tee/#respond</comments>
-		
-		<dc:creator><![CDATA[Michal Šrámek]]></dc:creator>
-		<pubDate>Wed, 16 Jan 2019 13:01:53 +0000</pubDate>
-				<guid isPermaLink="false">https://nerdshark-eshop.netlify.app/produkt/long-sleeve-tee/</guid>
-
-					<description><![CDATA[This is a simple product.]]></description>
-										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://nerdshark-eshop.netlify.app/produkt/long-sleeve-tee/feed/</wfw:commentRss>
+					<wfw:commentRss>/produkt/t-shirt-with-logo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Polo</title>
-		<link>https://nerdshark-eshop.netlify.app/produkt/polo/</link>
-					<comments>https://nerdshark-eshop.netlify.app/produkt/polo/#respond</comments>
+		<link>/produkt/polo/</link>
+					<comments>/produkt/polo/#respond</comments>
 		
 		<dc:creator><![CDATA[Michal Šrámek]]></dc:creator>
 		<pubDate>Wed, 16 Jan 2019 13:01:53 +0000</pubDate>
-				<guid isPermaLink="false">https://nerdshark-eshop.netlify.app/produkt/polo/</guid>
+				<guid isPermaLink="false">/produkt/polo/</guid>
 
 					<description><![CDATA[This is a simple product.]]></description>
 										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://nerdshark-eshop.netlify.app/produkt/polo/feed/</wfw:commentRss>
+					<wfw:commentRss>/produkt/polo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>T-Shirt</title>
-		<link>https://nerdshark-eshop.netlify.app/produkt/t-shirt/</link>
-					<comments>https://nerdshark-eshop.netlify.app/produkt/t-shirt/#respond</comments>
+		<title>Long Sleeve Tee</title>
+		<link>/produkt/long-sleeve-tee/</link>
+					<comments>/produkt/long-sleeve-tee/#respond</comments>
 		
 		<dc:creator><![CDATA[Michal Šrámek]]></dc:creator>
-		<pubDate>Wed, 16 Jan 2019 13:01:52 +0000</pubDate>
-				<guid isPermaLink="false">https://nerdshark-eshop.netlify.app/produkt/t-shirt/</guid>
+		<pubDate>Wed, 16 Jan 2019 13:01:53 +0000</pubDate>
+				<guid isPermaLink="false">/produkt/long-sleeve-tee/</guid>
 
 					<description><![CDATA[This is a simple product.]]></description>
 										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://nerdshark-eshop.netlify.app/produkt/t-shirt/feed/</wfw:commentRss>
+					<wfw:commentRss>/produkt/long-sleeve-tee/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>V-Neck T-Shirt</title>
-		<link>https://nerdshark-eshop.netlify.app/produkt/v-neck-t-shirt/</link>
-					<comments>https://nerdshark-eshop.netlify.app/produkt/v-neck-t-shirt/#respond</comments>
+		<link>/produkt/v-neck-t-shirt/</link>
+					<comments>/produkt/v-neck-t-shirt/#respond</comments>
 		
 		<dc:creator><![CDATA[Michal Šrámek]]></dc:creator>
 		<pubDate>Wed, 16 Jan 2019 13:01:52 +0000</pubDate>
-				<guid isPermaLink="false">https://nerdshark-eshop.netlify.app/produkt/v-neck-t-shirt/</guid>
+				<guid isPermaLink="false">/produkt/v-neck-t-shirt/</guid>
 
 					<description><![CDATA[This is a variable product.]]></description>
 										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://nerdshark-eshop.netlify.app/produkt/v-neck-t-shirt/feed/</wfw:commentRss>
+					<wfw:commentRss>/produkt/v-neck-t-shirt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>T-Shirt</title>
+		<link>/produkt/t-shirt/</link>
+					<comments>/produkt/t-shirt/#respond</comments>
+		
+		<dc:creator><![CDATA[Michal Šrámek]]></dc:creator>
+		<pubDate>Wed, 16 Jan 2019 13:01:52 +0000</pubDate>
+				<guid isPermaLink="false">/produkt/t-shirt/</guid>
+
+					<description><![CDATA[This is a simple product.]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/produkt/t-shirt/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

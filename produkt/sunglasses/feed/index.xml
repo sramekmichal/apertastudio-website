@@ -8,9 +8,9 @@
 <channel>
 	<title>
 	Komentáře: Sunglasses	</title>
-	<atom:link href="https://nerdshark-eshop.netlify.app/produkt/sunglasses/feed/" rel="self" type="application/rss+xml" />
-	<link>https://nerdshark-eshop.netlify.app/produkt/sunglasses/</link>
-	<description>Just another WordPress site</description>
+	<atom:link href="/produkt/sunglasses/feed/" rel="self" type="application/rss+xml" />
+	<link>/produkt/sunglasses/</link>
+	<description>Můj testovací e-shop</description>
 	<lastBuildDate>Wed, 16 Jan 2019 13:01:53 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

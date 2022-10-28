@@ -8,9 +8,9 @@
 <channel>
 	<title>
 	Komentáře: WordPress Pennant	</title>
-	<atom:link href="https://nerdshark-eshop.netlify.app/produkt/wordpress-pennant/feed/" rel="self" type="application/rss+xml" />
-	<link>https://nerdshark-eshop.netlify.app/produkt/wordpress-pennant/</link>
-	<description>Just another WordPress site</description>
+	<atom:link href="/produkt/wordpress-pennant/feed/" rel="self" type="application/rss+xml" />
+	<link>/produkt/wordpress-pennant/</link>
+	<description>Můj testovací e-shop</description>
 	<lastBuildDate>Wed, 16 Jan 2019 13:01:55 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

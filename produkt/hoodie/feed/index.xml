@@ -8,9 +8,9 @@
 <channel>
 	<title>
 	Komentáře: Hoodie	</title>
-	<atom:link href="https://nerdshark-eshop.netlify.app/produkt/hoodie/feed/" rel="self" type="application/rss+xml" />
-	<link>https://nerdshark-eshop.netlify.app/produkt/hoodie/</link>
-	<description>Just another WordPress site</description>
+	<atom:link href="/produkt/hoodie/feed/" rel="self" type="application/rss+xml" />
+	<link>/produkt/hoodie/</link>
+	<description>Můj testovací e-shop</description>
 	<lastBuildDate>Wed, 16 Jan 2019 13:01:52 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
