@@ -8,9 +8,9 @@
 <channel>
 	<title>
 	Komentáře: Hoodie with Logo	</title>
-	<atom:link href="/produkt/hoodie-with-logo/feed/" rel="self" type="application/rss+xml" />
-	<link>/produkt/hoodie-with-logo/</link>
-	<description>Můj testovací e-shop</description>
+	<atom:link href="https://nerdshark-eshop.netlify.app/produkt/hoodie-with-logo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nerdshark-eshop.netlify.app/produkt/hoodie-with-logo/</link>
+	<description>Žralok mezi nerdy!</description>
 	<lastBuildDate>Wed, 16 Jan 2019 13:01:52 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

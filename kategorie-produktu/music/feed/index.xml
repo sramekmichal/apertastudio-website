@@ -9,9 +9,9 @@
 
 <channel>
 	<title>Music &#8211; NERDSHARK</title>
-	<atom:link href="/kategorie-produktu/music/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
-	<description>Můj testovací e-shop</description>
+	<atom:link href="https://nerdshark-eshop.netlify.app/kategorie-produktu/music/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nerdshark-eshop.netlify.app/</link>
+	<description>Žralok mezi nerdy!</description>
 	<lastBuildDate>Wed, 16 Jan 2019 13:01:54 +0000</lastBuildDate>
 	<language>cs</language>
 	<sy:updatePeriod>
@@ -21,44 +21,44 @@
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/10/E-shop_Favikona.png</url>
+	<url>https://nerdshark-eshop.netlify.app/wp-content/uploads/2022/10/E-shop_Favikona.png</url>
 	<title>Music &#8211; NERDSHARK</title>
-	<link>/</link>
+	<link>https://nerdshark-eshop.netlify.app/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Album</title>
-		<link>/produkt/album/</link>
-					<comments>/produkt/album/#respond</comments>
+		<link>https://nerdshark-eshop.netlify.app/produkt/album/</link>
+					<comments>https://nerdshark-eshop.netlify.app/produkt/album/#respond</comments>
 		
 		<dc:creator><![CDATA[Michal Šrámek]]></dc:creator>
 		<pubDate>Wed, 16 Jan 2019 13:01:54 +0000</pubDate>
-				<guid isPermaLink="false">/produkt/album/</guid>
+				<guid isPermaLink="false">https://nerdshark-eshop.netlify.app/produkt/album/</guid>
 
 					<description><![CDATA[This is a simple, virtual product.]]></description>
 										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis orci ac odio dictum tincidunt. Donec ut metus leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed luctus, dui eu sagittis sodales, nulla nibh sagittis augue, vel porttitor diam enim non metus. Vestibulum aliquam augue neque. Phasellus tincidunt odio eget ullamcorper efficitur. Cras placerat ut turpis pellentesque vulputate. Nam sed consequat tortor. Curabitur finibus sapien dolor. Ut eleifend tellus nec erat pulvinar dignissim. Nam non arcu purus. Vivamus et massa massa.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/produkt/album/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nerdshark-eshop.netlify.app/produkt/album/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Single</title>
-		<link>/produkt/single/</link>
-					<comments>/produkt/single/#respond</comments>
+		<link>https://nerdshark-eshop.netlify.app/produkt/single/</link>
+					<comments>https://nerdshark-eshop.netlify.app/produkt/single/#respond</comments>
 		
 		<dc:creator><![CDATA[Michal Šrámek]]></dc:creator>
 		<pubDate>Wed, 16 Jan 2019 13:01:54 +0000</pubDate>
-				<guid isPermaLink="false">/produkt/single/</guid>
+				<guid isPermaLink="false">https://nerdshark-eshop.netlify.app/produkt/single/</guid>
 
 					<description><![CDATA[This is a simple, virtual product.]]></description>
 										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis orci ac odio dictum tincidunt. Donec ut metus leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed luctus, dui eu sagittis sodales, nulla nibh sagittis augue, vel porttitor diam enim non metus. Vestibulum aliquam augue neque. Phasellus tincidunt odio eget ullamcorper efficitur. Cras placerat ut turpis pellentesque vulputate. Nam sed consequat tortor. Curabitur finibus sapien dolor. Ut eleifend tellus nec erat pulvinar dignissim. Nam non arcu purus. Vivamus et massa massa.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/produkt/single/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nerdshark-eshop.netlify.app/produkt/single/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -8,9 +8,9 @@
 <channel>
 	<title>
 	Komentáře: Mini Astrophytum	</title>
-	<atom:link href="/produkt/mini-astrophytum/feed/" rel="self" type="application/rss+xml" />
-	<link>/produkt/mini-astrophytum/</link>
-	<description>Můj testovací e-shop</description>
+	<atom:link href="https://nerdshark-eshop.netlify.app/produkt/mini-astrophytum/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nerdshark-eshop.netlify.app/produkt/mini-astrophytum/</link>
+	<description>Žralok mezi nerdy!</description>
 	<lastBuildDate>Wed, 23 Jan 2019 12:21:23 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

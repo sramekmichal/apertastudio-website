@@ -9,9 +9,9 @@
 
 <channel>
 	<title>Produkty &#8211; NERDSHARK</title>
-	<atom:link href="/shop/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
-	<description>Můj testovací e-shop</description>
+	<atom:link href="https://nerdshark-eshop.netlify.app/shop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nerdshark-eshop.netlify.app/</link>
+	<description>Žralok mezi nerdy!</description>
 	<lastBuildDate>Wed, 23 Jan 2019 13:25:49 +0000</lastBuildDate>
 	<language>cs</language>
 	<sy:updatePeriod>
@@ -21,188 +21,188 @@
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/10/E-shop_Favikona.png</url>
+	<url>https://nerdshark-eshop.netlify.app/wp-content/uploads/2022/10/E-shop_Favikona.png</url>
 	<title>Produkty &#8211; NERDSHARK</title>
-	<link>/</link>
+	<link>https://nerdshark-eshop.netlify.app/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Money Plant</title>
-		<link>/produkt/money-plant/</link>
-					<comments>/produkt/money-plant/#respond</comments>
+		<link>https://nerdshark-eshop.netlify.app/produkt/money-plant/</link>
+					<comments>https://nerdshark-eshop.netlify.app/produkt/money-plant/#respond</comments>
 		
 		<dc:creator><![CDATA[Michal Šrámek]]></dc:creator>
 		<pubDate>Wed, 23 Jan 2019 13:25:49 +0000</pubDate>
-				<guid isPermaLink="false">/produkt/money-plant/</guid>
+				<guid isPermaLink="false">https://nerdshark-eshop.netlify.app/produkt/money-plant/</guid>
 
 					<description><![CDATA[Pretium diam ornare! Architecto occaecati tempor aptent cum nesciunt dignissimos parturient a. Adipisicing placeat quibusdam. Pretium diam ornare! Architecto occaecati tempor aptent cum nesciunt.]]></description>
 										<content:encoded><![CDATA[<p>Pretium diam ornare! Architecto occaecati tempor aptent cum nesciunt dignissimos parturient a. Adipisicing placeat quibusdam. Pretium diam ornare! Architecto occaecati tempor aptent cum nesciunt.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/produkt/money-plant/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nerdshark-eshop.netlify.app/produkt/money-plant/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Aluminum Plant</title>
-		<link>/produkt/aluminum-plant/</link>
-					<comments>/produkt/aluminum-plant/#respond</comments>
+		<link>https://nerdshark-eshop.netlify.app/produkt/aluminum-plant/</link>
+					<comments>https://nerdshark-eshop.netlify.app/produkt/aluminum-plant/#respond</comments>
 		
 		<dc:creator><![CDATA[Michal Šrámek]]></dc:creator>
 		<pubDate>Wed, 23 Jan 2019 13:24:06 +0000</pubDate>
-				<guid isPermaLink="false">/produkt/aluminum-plant/</guid>
+				<guid isPermaLink="false">https://nerdshark-eshop.netlify.app/produkt/aluminum-plant/</guid>
 
 					<description><![CDATA[Pretium diam ornare! Architecto occaecati tempor aptent cum nesciunt dignissimos parturient a. Adipisicing placeat quibusdam. Pretium diam ornare! Architecto occaecati tempor aptent cum nesciunt.]]></description>
 										<content:encoded><![CDATA[<p>Pretium diam ornare! Architecto occaecati tempor aptent cum nesciunt dignissimos parturient a. Adipisicing placeat quibusdam. Pretium diam ornare! Architecto occaecati tempor aptent cum nesciunt.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/produkt/aluminum-plant/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nerdshark-eshop.netlify.app/produkt/aluminum-plant/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Boncellensis Secullant</title>
-		<link>/produkt/boncellensis-secullant/</link>
-					<comments>/produkt/boncellensis-secullant/#respond</comments>
+		<link>https://nerdshark-eshop.netlify.app/produkt/boncellensis-secullant/</link>
+					<comments>https://nerdshark-eshop.netlify.app/produkt/boncellensis-secullant/#respond</comments>
 		
 		<dc:creator><![CDATA[Michal Šrámek]]></dc:creator>
 		<pubDate>Wed, 23 Jan 2019 13:22:49 +0000</pubDate>
-				<guid isPermaLink="false">/produkt/boncellensis-secullant/</guid>
+				<guid isPermaLink="false">https://nerdshark-eshop.netlify.app/produkt/boncellensis-secullant/</guid>
 
 					<description><![CDATA[Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt lores ta porro ame. Neque porro quisquam est, qui dolore ipsum quia dolor sit amet.]]></description>
 										<content:encoded><![CDATA[<p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt lores ta porro ame. Neque porro quisquam est, qui dolore ipsum quia dolor sit amet.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/produkt/boncellensis-secullant/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nerdshark-eshop.netlify.app/produkt/boncellensis-secullant/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Green Soil Lotus</title>
-		<link>/produkt/green-soil-lotus/</link>
-					<comments>/produkt/green-soil-lotus/#respond</comments>
+		<link>https://nerdshark-eshop.netlify.app/produkt/green-soil-lotus/</link>
+					<comments>https://nerdshark-eshop.netlify.app/produkt/green-soil-lotus/#respond</comments>
 		
 		<dc:creator><![CDATA[Michal Šrámek]]></dc:creator>
 		<pubDate>Wed, 23 Jan 2019 13:20:21 +0000</pubDate>
-				<guid isPermaLink="false">/produkt/green-soil-lotus/</guid>
+				<guid isPermaLink="false">https://nerdshark-eshop.netlify.app/produkt/green-soil-lotus/</guid>
 
 					<description><![CDATA[Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt lores ta porro ame. Neque porro quisquam est, qui dolore ipsum quia dolor sit amet.]]></description>
 										<content:encoded><![CDATA[<p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt lores ta porro ame. Neque porro quisquam est, qui dolore ipsum quia dolor sit amet.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/produkt/green-soil-lotus/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nerdshark-eshop.netlify.app/produkt/green-soil-lotus/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Piorro Quisquam</title>
-		<link>/produkt/piorro-quisquam/</link>
-					<comments>/produkt/piorro-quisquam/#respond</comments>
+		<link>https://nerdshark-eshop.netlify.app/produkt/piorro-quisquam/</link>
+					<comments>https://nerdshark-eshop.netlify.app/produkt/piorro-quisquam/#respond</comments>
 		
 		<dc:creator><![CDATA[Michal Šrámek]]></dc:creator>
 		<pubDate>Wed, 23 Jan 2019 13:18:02 +0000</pubDate>
-				<guid isPermaLink="false">/produkt/piorro-quisquam/</guid>
+				<guid isPermaLink="false">https://nerdshark-eshop.netlify.app/produkt/piorro-quisquam/</guid>
 
 					<description><![CDATA[Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt lores ta porro ame. Neque porro quisquam est, qui dolore ipsum quia dolor sit amet.]]></description>
 										<content:encoded><![CDATA[<p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt lores ta porro ame. Neque porro quisquam est, qui dolore ipsum quia dolor sit amet.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/produkt/piorro-quisquam/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nerdshark-eshop.netlify.app/produkt/piorro-quisquam/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Rattle Snake Tail</title>
-		<link>/produkt/rattle-snake-tail/</link>
-					<comments>/produkt/rattle-snake-tail/#respond</comments>
+		<link>https://nerdshark-eshop.netlify.app/produkt/rattle-snake-tail/</link>
+					<comments>https://nerdshark-eshop.netlify.app/produkt/rattle-snake-tail/#respond</comments>
 		
 		<dc:creator><![CDATA[Michal Šrámek]]></dc:creator>
 		<pubDate>Wed, 23 Jan 2019 12:23:25 +0000</pubDate>
-				<guid isPermaLink="false">/produkt/rattle-snake-tail/</guid>
+				<guid isPermaLink="false">https://nerdshark-eshop.netlify.app/produkt/rattle-snake-tail/</guid>
 
 					<description><![CDATA[Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt lores ta porro ame. Neque porro quisquam est, qui dolore ipsum quia dolor sit amet.]]></description>
 										<content:encoded><![CDATA[<p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt lores ta porro ame. Neque porro quisquam est, qui dolore ipsum quia dolor sit amet.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/produkt/rattle-snake-tail/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nerdshark-eshop.netlify.app/produkt/rattle-snake-tail/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Mini Astrophytum</title>
-		<link>/produkt/mini-astrophytum/</link>
-					<comments>/produkt/mini-astrophytum/#respond</comments>
+		<link>https://nerdshark-eshop.netlify.app/produkt/mini-astrophytum/</link>
+					<comments>https://nerdshark-eshop.netlify.app/produkt/mini-astrophytum/#respond</comments>
 		
 		<dc:creator><![CDATA[Michal Šrámek]]></dc:creator>
 		<pubDate>Wed, 23 Jan 2019 12:21:23 +0000</pubDate>
-				<guid isPermaLink="false">/produkt/mini-astrophytum/</guid>
+				<guid isPermaLink="false">https://nerdshark-eshop.netlify.app/produkt/mini-astrophytum/</guid>
 
 					<description><![CDATA[Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt lores ta porro ame. Neque porro quisquam est, qui dolore ipsum quia dolor sit amet.]]></description>
 										<content:encoded><![CDATA[<p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt lores ta porro ame. Neque porro quisquam est, qui dolore ipsum quia dolor sit amet.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/produkt/mini-astrophytum/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nerdshark-eshop.netlify.app/produkt/mini-astrophytum/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Star Cactus</title>
-		<link>/produkt/star-cactus/</link>
-					<comments>/produkt/star-cactus/#respond</comments>
+		<link>https://nerdshark-eshop.netlify.app/produkt/star-cactus/</link>
+					<comments>https://nerdshark-eshop.netlify.app/produkt/star-cactus/#respond</comments>
 		
 		<dc:creator><![CDATA[Michal Šrámek]]></dc:creator>
 		<pubDate>Wed, 23 Jan 2019 12:20:04 +0000</pubDate>
-				<guid isPermaLink="false">/produkt/star-cactus/</guid>
+				<guid isPermaLink="false">https://nerdshark-eshop.netlify.app/produkt/star-cactus/</guid>
 
 					<description><![CDATA[Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt lores ta porro ame. Neque porro quisquam est, qui dolore ipsum quia dolor sit amet.]]></description>
 										<content:encoded><![CDATA[<p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt lores ta porro ame. Neque porro quisquam est, qui dolore ipsum quia dolor sit amet.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/produkt/star-cactus/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nerdshark-eshop.netlify.app/produkt/star-cactus/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ball Cactus</title>
-		<link>/produkt/ball-cactus/</link>
-					<comments>/produkt/ball-cactus/#respond</comments>
+		<link>https://nerdshark-eshop.netlify.app/produkt/ball-cactus/</link>
+					<comments>https://nerdshark-eshop.netlify.app/produkt/ball-cactus/#respond</comments>
 		
 		<dc:creator><![CDATA[Michal Šrámek]]></dc:creator>
 		<pubDate>Wed, 23 Jan 2019 11:22:40 +0000</pubDate>
-				<guid isPermaLink="false">/produkt/ball-cactus/</guid>
+				<guid isPermaLink="false">https://nerdshark-eshop.netlify.app/produkt/ball-cactus/</guid>
 
 					<description><![CDATA[Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt lores ta porro ame. Neque porro quisquam est, qui dolore ipsum quia dolor sit amet.]]></description>
 										<content:encoded><![CDATA[<p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt lores ta porro ame. Neque porro quisquam est, qui dolore ipsum quia dolor sit amet.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/produkt/ball-cactus/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nerdshark-eshop.netlify.app/produkt/ball-cactus/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Mini San Pedro Cactus</title>
-		<link>/produkt/mini-san-pedro-cactus/</link>
-					<comments>/produkt/mini-san-pedro-cactus/#respond</comments>
+		<link>https://nerdshark-eshop.netlify.app/produkt/mini-san-pedro-cactus/</link>
+					<comments>https://nerdshark-eshop.netlify.app/produkt/mini-san-pedro-cactus/#respond</comments>
 		
 		<dc:creator><![CDATA[Michal Šrámek]]></dc:creator>
 		<pubDate>Wed, 23 Jan 2019 10:58:34 +0000</pubDate>
-				<guid isPermaLink="false">/produkt/mini-san-pedro-cactus/</guid>
+				<guid isPermaLink="false">https://nerdshark-eshop.netlify.app/produkt/mini-san-pedro-cactus/</guid>
 
 					<description><![CDATA[Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt lores ta porro ame. Neque porro quisquam est, qui dolore ipsum quia dolor sit amet.]]></description>
 										<content:encoded><![CDATA[<p>Neque porro quisquam est, qui dolore ipsum quia dolor sit amet, consectetur adipisci velit, sed quia non numquam eius modi tempora incidunt lores ta porro ame. Neque porro quisquam est, qui dolore ipsum quia dolor sit amet.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/produkt/mini-san-pedro-cactus/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nerdshark-eshop.netlify.app/produkt/mini-san-pedro-cactus/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

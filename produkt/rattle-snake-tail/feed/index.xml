@@ -8,9 +8,9 @@
 <channel>
 	<title>
 	Komentáře: Rattle Snake Tail	</title>
-	<atom:link href="/produkt/rattle-snake-tail/feed/" rel="self" type="application/rss+xml" />
-	<link>/produkt/rattle-snake-tail/</link>
-	<description>Můj testovací e-shop</description>
+	<atom:link href="https://nerdshark-eshop.netlify.app/produkt/rattle-snake-tail/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nerdshark-eshop.netlify.app/produkt/rattle-snake-tail/</link>
+	<description>Žralok mezi nerdy!</description>
 	<lastBuildDate>Wed, 23 Jan 2019 12:23:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

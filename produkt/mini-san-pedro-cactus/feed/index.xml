@@ -8,9 +8,9 @@
 <channel>
 	<title>
 	Komentáře: Mini San Pedro Cactus	</title>
-	<atom:link href="/produkt/mini-san-pedro-cactus/feed/" rel="self" type="application/rss+xml" />
-	<link>/produkt/mini-san-pedro-cactus/</link>
-	<description>Můj testovací e-shop</description>
+	<atom:link href="https://nerdshark-eshop.netlify.app/produkt/mini-san-pedro-cactus/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nerdshark-eshop.netlify.app/produkt/mini-san-pedro-cactus/</link>
+	<description>Žralok mezi nerdy!</description>
 	<lastBuildDate>Wed, 23 Jan 2019 10:58:34 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

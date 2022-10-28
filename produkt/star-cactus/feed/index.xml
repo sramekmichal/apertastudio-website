@@ -8,9 +8,9 @@
 <channel>
 	<title>
 	Komentáře: Star Cactus	</title>
-	<atom:link href="/produkt/star-cactus/feed/" rel="self" type="application/rss+xml" />
-	<link>/produkt/star-cactus/</link>
-	<description>Můj testovací e-shop</description>
+	<atom:link href="https://nerdshark-eshop.netlify.app/produkt/star-cactus/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nerdshark-eshop.netlify.app/produkt/star-cactus/</link>
+	<description>Žralok mezi nerdy!</description>
 	<lastBuildDate>Wed, 23 Jan 2019 12:20:04 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

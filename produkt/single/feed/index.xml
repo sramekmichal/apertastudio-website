@@ -8,9 +8,9 @@
 <channel>
 	<title>
 	Komentáře: Single	</title>
-	<atom:link href="/produkt/single/feed/" rel="self" type="application/rss+xml" />
-	<link>/produkt/single/</link>
-	<description>Můj testovací e-shop</description>
+	<atom:link href="https://nerdshark-eshop.netlify.app/produkt/single/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nerdshark-eshop.netlify.app/produkt/single/</link>
+	<description>Žralok mezi nerdy!</description>
 	<lastBuildDate>Wed, 16 Jan 2019 13:01:54 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

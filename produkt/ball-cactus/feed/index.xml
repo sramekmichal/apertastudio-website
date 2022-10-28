@@ -8,9 +8,9 @@
 <channel>
 	<title>
 	Komentáře: Ball Cactus	</title>
-	<atom:link href="/produkt/ball-cactus/feed/" rel="self" type="application/rss+xml" />
-	<link>/produkt/ball-cactus/</link>
-	<description>Můj testovací e-shop</description>
+	<atom:link href="https://nerdshark-eshop.netlify.app/produkt/ball-cactus/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nerdshark-eshop.netlify.app/produkt/ball-cactus/</link>
+	<description>Žralok mezi nerdy!</description>
 	<lastBuildDate>Wed, 23 Jan 2019 11:22:40 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

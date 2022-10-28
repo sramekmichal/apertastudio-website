@@ -8,9 +8,9 @@
 <channel>
 	<title>
 	Komentáře: Belt	</title>
-	<atom:link href="/produkt/belt/feed/" rel="self" type="application/rss+xml" />
-	<link>/produkt/belt/</link>
-	<description>Můj testovací e-shop</description>
+	<atom:link href="https://nerdshark-eshop.netlify.app/produkt/belt/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nerdshark-eshop.netlify.app/produkt/belt/</link>
+	<description>Žralok mezi nerdy!</description>
 	<lastBuildDate>Wed, 16 Jan 2019 13:01:52 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

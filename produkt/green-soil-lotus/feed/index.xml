@@ -8,9 +8,9 @@
 <channel>
 	<title>
 	Komentáře: Green Soil Lotus	</title>
-	<atom:link href="/produkt/green-soil-lotus/feed/" rel="self" type="application/rss+xml" />
-	<link>/produkt/green-soil-lotus/</link>
-	<description>Můj testovací e-shop</description>
+	<atom:link href="https://nerdshark-eshop.netlify.app/produkt/green-soil-lotus/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nerdshark-eshop.netlify.app/produkt/green-soil-lotus/</link>
+	<description>Žralok mezi nerdy!</description>
 	<lastBuildDate>Wed, 23 Jan 2019 13:20:21 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

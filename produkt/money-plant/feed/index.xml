@@ -8,9 +8,9 @@
 <channel>
 	<title>
 	Komentáře: Money Plant	</title>
-	<atom:link href="/produkt/money-plant/feed/" rel="self" type="application/rss+xml" />
-	<link>/produkt/money-plant/</link>
-	<description>Můj testovací e-shop</description>
+	<atom:link href="https://nerdshark-eshop.netlify.app/produkt/money-plant/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nerdshark-eshop.netlify.app/produkt/money-plant/</link>
+	<description>Žralok mezi nerdy!</description>
 	<lastBuildDate>Wed, 23 Jan 2019 13:25:49 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
