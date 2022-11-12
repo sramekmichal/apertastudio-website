@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Komentáře k NERDSHARK	</title>
-	<atom:link href="https://nerdshark-eshop.netlify.app/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://nerdshark-eshop.netlify.app/</link>
-	<description>Žralok mezi nerdy!</description>
-	<lastBuildDate>Fri, 28 Oct 2022 08:04:21 +0000</lastBuildDate>
+	Komentáře k 3D Služby	</title>
+	<atom:link href="http://localhost/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Jsem tu pro Vás.</description>
+	<lastBuildDate>Sat, 12 Nov 2022 17:58:06 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 </channel>
 </rss>
