@@ -2,4 +2,4 @@
 
 Wordpress website.
 
-~(Do not delete `Readme.md`, `.git` and `FIGURES` during update)~
+*(Do not delete `Readme.md`, `.git` and `FIGURES` during update)*
