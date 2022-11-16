@@ -3,4 +3,4 @@
 Wordpress website.
 
 - *Do not delete `Readme.md`, `.git` and `FIGURES` during update*
-- *Copy content of `/wp-content/plugins/elementor/assets` to the same folder*
+- *Copy content of `/wp-content/plugins/elementor/*` to the same website folder*
